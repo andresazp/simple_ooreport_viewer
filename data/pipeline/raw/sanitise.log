@@ -1,0 +1,12 @@
+/home/jacoboamn87/Projects/ooni-pipeline.backup/data/pipeline/bridge_db.json does not exist
+Waiting for all the tasks to finish
+New report file: /home/jacoboamn87/Projects/ooni-pipeline.backup/data/pipeline/sanitised/dns_consistency-2015-11-29T080226Z-AS8048-probe.yamloo
+Moving original unsanitised file /home/jacoboamn87/Projects/ooni-pipeline.backup/data/pipeline/raw/dns_consistency-2015-11-29T080226Z-AS8048-probe.yamloo to archive
+Archiving report: /home/jacoboamn87/Projects/ooni-pipeline.backup/data/pipeline/raw/dns_consistency-2015-11-29T080226Z-AS8048-probe.yamloo
+1 reports archived
+Waiting for all the tasks to finish
+New report file: /home/jacoboamn87/Projects/ooni-pipeline.backup/data/pipeline/sanitised/dns_consistency-2015-11-29T080226Z-AS8048-probe.yamloo
+Moving original unsanitised file /home/jacoboamn87/Projects/ooni-pipeline.backup/data/pipeline/raw/dns_consistency-2015-11-29T080226Z-AS8048-probe.yamloo to archive
+Archive does already exist, overwriting
+Archiving report: /home/jacoboamn87/Projects/ooni-pipeline.backup/data/pipeline/raw/dns_consistency-2015-11-29T080226Z-AS8048-probe.yamloo
+1 reports archived
