@@ -2,3 +2,5 @@ private/
 *.json
 *.pyc
 *.swp
+env
+*.yamloo
